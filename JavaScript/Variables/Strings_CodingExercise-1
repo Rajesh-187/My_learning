@@ -1,0 +1,3 @@
+var messg= "Hello";
+var name= "rajesh";
+alert( messg+" there "+name);
